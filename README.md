@@ -1,3 +1,3 @@
 # hello_world
-This is test of github.
+This is test of commiting.
 Let's commit!
